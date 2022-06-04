@@ -11,4 +11,4 @@ docker run -p 8085:8080 \
 -e GIPHY_API_KEY=8bOZd9RlyJe9PM0mMPJDLrAc1dFUpHNP \
 test-app
 ```
-- Make a request [localhost:8085/currency/compare?code=AMD](http://localhost:8580/currency/compare?code=AMD)
+- Make a request [localhost:8085/currency/compare?code=AMD](http://localhost:8085/currency/compare?code=AMD)
